@@ -1,4 +1,4 @@
-# Order Management API
+# Spring Commerce API
 
 API REST desenvolvida com Java e Spring Boot para gerenciamento de usuários, produtos, categorias, pedidos e pagamentos.
 
